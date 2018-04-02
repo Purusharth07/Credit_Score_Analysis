@@ -1,4 +1,4 @@
-Credit Scoring Analysis
+Credit Score Analysis
 =============
 **A credit scoring model** is a tool that is typically used in the decision-making process of accepting or
 rejecting a loan. A credit scoring model is the result of a statistical model which, based on information
