@@ -3,7 +3,7 @@ Credit Scoring Analysis
 **A credit scoring model** is a tool that is typically used in the decision-making process of accepting or
 rejecting a loan. A credit scoring model is the result of a statistical model which, based on information
 about the borrower (e.g. age, number of previous loans, etc.), allows one to distinguish between "good"
-and "bad" loans and give an estimate of the probability of default
+and "bad" loans and give an estimate of the probability of default.
 
 **Steps Involved**
 =============
