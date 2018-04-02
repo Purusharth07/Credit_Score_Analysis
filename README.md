@@ -6,6 +6,7 @@ about the borrower (e.g. age, number of previous loans, etc.), allows one to dis
 and "bad" loans and give an estimate of the probability of default.
 
 **What is Loan Default ?**
+---------------------
 **Loan Defalut**: In finance, default is failure to meet the legal obligations of a loan, for example when a home buyer fails to make a mortgage payment, or when a corporation or government fails to pay a bond which has reached maturity.
 
 **Steps Involved**
