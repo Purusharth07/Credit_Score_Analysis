@@ -12,10 +12,9 @@ and "bad" loans and give an estimate of the probability of default.
 * Part 1 - **Data Processing**: Cleaning and Transforming Raw Data into the Understandable Format
 * Part 2 - **Profiling**: Data profiling is the process of examining the data available from an existing information source (e.g. a database or a file) and collecting statistics or informative summaries about that data.
 * Part 3 - **Logistic Regression Model**: In statistics, logistic regression, or logit regression, is a regression model where the dependent variable is categorical. This article covers the case of a binary dependent variable—that is, where the output can take only two values, "0" and "1", which represent outcomes such as pass/fail, win/lose etc.
-* Part 4 - **Multiple Correspondence Analysis**
+* Part 4 - **Decision Tree Model**
 * Part 5 - **Clustering Analysis**
-* Part 6 - **Decision Trees**
-* Part 7 - **Principal Components Analysis**
+* Part 6 - **Principal Components Analysis**
 
 ------------
 The raw dataset is in the file **"CreditScoring.csv"** which contains 4455 rows and 14 columns:
